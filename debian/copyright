@@ -7,7 +7,7 @@ Schulze <joey@debian.org> and then by Siggy Brentrup <bsb@winnegan.de>,
 and then taken over by Ryan Murray <rmurray@debian.org>.
 
 In August 2009 the upstream development and Debian packaging were taken over
-by Ansgar Burchardt <ansgar@43-1.org> and Cyril Brulebois <kibi@debian.org>.
+by Ansgar Burchardt <ansgar@debian.org> and Cyril Brulebois <kibi@debian.org>.
 
 This may be considered the experimental upstream source, and since there
 doesn't seem to be any other upstream source, the only upstream source.
@@ -26,6 +26,9 @@ doesn't seem to be any other upstream source, the only upstream source.
    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
    GNU General Public License for more details.
 
+On Debian systems, the complete text of version 2 of the GNU General
+Public License can be found in `/usr/share/common-licenses/GPL-2'.
+
 The files posixtm.c and posixtm.h have the following copyright information:
 
    Copyright (C) 1989, 1990, 1991, 1998, 2000, 2001, 2002, 2003, 2004,
@@ -41,9 +44,12 @@ The files posixtm.c and posixtm.h have the following copyright information:
    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
    GNU General Public License for more details.
 
+On Debian systems, the complete text of version 3 of the GNU General
+Public License can be found in `/usr/share/common-licenses/GPL-3'.
+
 parsetime.pl:
 
-  Copyright (C) 2009, Ansgar Burchardt <ansgar@43-1.org>
+  Copyright (C) 2009, Ansgar Burchardt <ansgar@debian.org>
 
   Permission to use, copy, modify, and/or distribute this software for any
   purpose with or without fee is hereby granted, provided that the above
@@ -56,6 +62,3 @@ parsetime.pl:
   LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
   OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
   PERFORMANCE OF THIS SOFTWARE.
-
-On Debian GNU/Linux systems, the complete text of the GNU General
-Public License can be found in `/usr/share/common-licenses/GPL'.
